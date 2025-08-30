@@ -241,8 +241,8 @@ img {
 @media (max-width: 600px) {
   .mail1 {
     font-size: 14px;
-    padding: 10px;
-    margin-top: 20px;
+    padding: 1px;
+    margin-top: 2px;
   }
 }
 
@@ -804,4 +804,5 @@ p.tip {
 
 
 }
+
 
