@@ -238,6 +238,13 @@ img {
 .mail1:hover {
     transform: scale(1.2);
 }
+@media (max-width: 600px) {
+  .mail1 {
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 20px;
+  }
+}
 
 .intro {
     flex: 1;
@@ -797,3 +804,4 @@ p.tip {
 
 
 }
+
