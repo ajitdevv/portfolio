@@ -81,7 +81,7 @@ body {
 
     background:
         linear-gradient(to left top, lch(5.87% 34.6 300.2 / 0.5), rgba(84, 139, 241, 0.621)),
-        url('/background.jpg');
+        url('background.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -794,5 +794,6 @@ p.tip {
     padding-left: 45%;
     padding-bottom: 18%;
     color: white;
+
 
 }
